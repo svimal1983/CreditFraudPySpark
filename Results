@@ -1,0 +1,34 @@
+
+
+Results of the fits:
+
+0: is logReg
+1 is Knn
+2 is xg
+
+order of train size is 0.2 0.4 0.6 0.8
+
+{0: ([0.73944687045123725,
+   0.75334608030592731,
+   0.74285714285714277,
+   0.72413793103448287],
+  [(datetime.timedelta(0, 1, 21741), datetime.timedelta(0, 0, 19706)),
+   (datetime.timedelta(0, 1, 693308), datetime.timedelta(0, 0, 17677)),
+   (datetime.timedelta(0, 2, 168239), datetime.timedelta(0, 0, 7222)),
+   (datetime.timedelta(0, 2, 477540), datetime.timedelta(0, 0, 3555))]),
+ 1: ([0.81327800829875507,
+   0.81495327102803727,
+   0.84507042253521114,
+   0.85405405405405399],
+  [(datetime.timedelta(0, 0, 149519), datetime.timedelta(0, 414, 510125)),
+   (datetime.timedelta(0, 0, 324241), datetime.timedelta(0, 397, 880168)),
+   (datetime.timedelta(0, 0, 570303), datetime.timedelta(0, 293, 6454)),
+   (datetime.timedelta(0, 0, 872242), datetime.timedelta(0, 185, 394293))]),
+ 2: ([0.81471004243281464,
+   0.84916201117318435,
+   0.86592178770949713,
+   0.87567567567567572],
+  [(datetime.timedelta(0, 51, 975136), datetime.timedelta(0, 5, 722088)),
+   (datetime.timedelta(0, 150, 622264), datetime.timedelta(0, 5, 916872)),
+   (datetime.timedelta(0, 266, 183832), datetime.timedelta(0, 4, 564486)),
+   (datetime.timedelta(0, 395, 875585), datetime.timedelta(0, 2, 566817))])}
